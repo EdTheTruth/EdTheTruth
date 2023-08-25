@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EdTheTruth
+- 👋 Hi, I’m Ed The Truth
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Tableau, and Microsoft Excel
 - 💞️ I’m looking to collaborate on projects and group discussions
 - 📫 How to reach me @ edthetruth@mail.com
 
